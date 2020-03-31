@@ -30,10 +30,10 @@ export default class EnshrineGoods extends Component {
     }
 
     render() {
-        const { productOrders, enshrinecount } = this.props;
+        const { productOrders, count } = this.props;
         return (
             <>
-                <Nav.Link href="#" onClick={this.handleShow}>收藏柜<Badge variant="light">{enshrinecount}</Badge></Nav.Link>
+                <Nav.Link href="#" onClick={this.handleShow}>收藏柜<Badge variant="light">{count}</Badge></Nav.Link>
                 <Modal show={this.state.show} onHide={this.handleClose} size="lg">
                     <Modal.Body>
                     <Modal.Title>购物订单</Modal.Title>

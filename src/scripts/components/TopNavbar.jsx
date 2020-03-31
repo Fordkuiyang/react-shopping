@@ -12,7 +12,6 @@ class TopNavbar extends Component {
           <Navbar.Brand href="/#">GUCCI官方商城</Navbar.Brand>
           <SearchInput />
           <Nav className="ml-auto">
-            <EnshrineGoods />
             <GoodCartList />
           </Nav>
         </Navbar>

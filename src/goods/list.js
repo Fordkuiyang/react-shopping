@@ -13,7 +13,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('1_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -26,7 +25,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('2_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 }, {
     id: '3',
@@ -38,7 +36,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('3_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 }, {
     id: '4',
@@ -50,7 +47,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('4_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -63,7 +59,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('5_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -76,7 +71,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('6_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -89,7 +83,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('7_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -102,7 +95,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('8_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -115,7 +107,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('9_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -128,7 +119,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('10_600x600')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -141,7 +131,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('11_600x600')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -154,7 +143,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('12_600x600')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -167,7 +155,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('13_600x600')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -180,7 +167,6 @@ export const products = [{
         img: './' + images.find(img => img.includes('14_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },
 {
@@ -193,6 +179,5 @@ export const products = [{
         img: './' + images.find(img => img.includes('15_470X470')),
         title: '',
         count: '',
-        enshrinecount,
     }
 },]
